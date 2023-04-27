@@ -1,5 +1,7 @@
 # Whisper + GPT
 
+Update 27/04/2023: This repo is no longer maintaned, if you need a whisper solution, see my other whisper repos.
+
 This repository contains three Python application notebooks. The first two are standalone scripts, while the third combines the functionality of the first two into a single script.
 
 The whisper model is used for audio transcription, and the GPT-3.5-turbo model is used for text editing.
